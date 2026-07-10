@@ -180,6 +180,11 @@
   },
   "active": "21f69315b5acd474",
   "lastOpenFiles": [
+    "prompts/2_academic_orchestrator.md",
+    "prompts/1_fact_extractor.md",
+    "prompts",
+    "Dashboard.md",
+    "SYSTEM_HARNESS.md",
     "wiki/concepts/Organizational Thermodynamics and Behavioral Entropy.md",
     "README.md",
     "wiki/synthesis/cross_link.py",
@@ -206,17 +211,12 @@
     "wiki/concepts/Situational Strength.md",
     "wiki/synthesis/Situational Strength Literature Synthesis.md",
     "wiki/synthesis/Debate Transcript - Situational Strength.md",
-    "wiki/Paper - Meyer 2009.md",
     "wiki/entities",
     "wiki/synthesis",
     "wiki/queries",
     "wiki/concepts",
     "raw/sources/Meyer et al. - 2009 - A meta‐analytic investigation into the moderating effects of situational strength on the conscientio.pdf",
     "raw/sources/Dalal et al. - 2020 - Extending Situational Strength Theory to Account for Situation-Outcome Mismatch.pdf",
-    "raw/sources/Calderwood et al. - 2023 - Situational Strength as a Lens to Understand the Strain Implications of Extra-Normative Work.pdf",
-    "raw/sources/Judge and Zapata - 2015 - The Person–Situation Debate Revisited Effect of Situation Strength and Trait Activation on the Vali.pdf",
-    "Meta-Analysis.md",
-    "wiki/index.md",
-    "wiki/Attention Mechanism.md"
+    "raw/sources/Calderwood et al. - 2023 - Situational Strength as a Lens to Understand the Strain Implications of Extra-Normative Work.pdf"
   ]
 }
