@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "e874d1037e04ee32",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6765e6936def672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f69315b5acd474",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89069ff636392f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffcb3178f6afdbe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6a75298805d91a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4a0013ee650a6558",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1a8fd150851bf76a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03a28db85ce944ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e1a47a5ee49c687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94fdbbc0cde60146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8d9ae4a048b0d7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "397c81bb69e465da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90320d5f8b8bedfe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8ebedd0c7b71e2de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "21f69315b5acd474",
+  "lastOpenFiles": [
+    "wiki/concepts/Hydraulic Displacement of Restrictive Constraints.md",
+    "wiki/synthesis/100_Round_Live_Debate.md",
+    "wiki/Paper - Dalal 2020.md",
+    "wiki/concepts/Pathogenicity of Consequence-Based Enforcement.md",
+    "wiki/concepts/Structured Ambiguity (Informational vs Restrictive Strength).md",
+    "wiki/concepts/Alpha-Beta Press Asymmetry.md",
+    "wiki/concepts/Situational Strength.md",
+    "wiki/Paper - Calderwood 2023.md",
+    "wiki/synthesis/Situational Strength Literature Synthesis.md",
+    "wiki/synthesis/Debate Transcript - Situational Strength.md",
+    "index.md",
+    "log.md",
+    "wiki/Paper - Judge 2015.md",
+    "wiki/Paper - Meyer 2009.md",
+    "wiki/entities",
+    "wiki/synthesis",
+    "wiki/queries",
+    "wiki/concepts",
+    "raw/sources/Meyer et al. - 2009 - A meta‐analytic investigation into the moderating effects of situational strength on the conscientio.pdf",
+    "raw/sources/Dalal et al. - 2020 - Extending Situational Strength Theory to Account for Situation-Outcome Mismatch.pdf",
+    "raw/sources/Calderwood et al. - 2023 - Situational Strength as a Lens to Understand the Strain Implications of Extra-Normative Work.pdf",
+    "raw/sources/Judge and Zapata - 2015 - The Person–Situation Debate Revisited Effect of Situation Strength and Trait Activation on the Vali.pdf",
+    "get_pdfs.py",
+    "raw/sources/Guest and Martin - 2021 - How Computational Modeling Can Force Theory Building in Psychological Science.pdf",
+    "Meta-Analysis.md",
+    "wiki/index.md",
+    "wiki/Attention Mechanism.md",
+    "wiki/Cross-modal Plasticity.md",
+    "wiki/Predictive Coding.md",
+    "wiki/Situational Strength.md",
+    "wiki/Paper - Kriegeskorte et al 2008 - RSA.md",
+    "wiki/Paper - Meyer et al 2009 - Situational strength.md",
+    "wiki/Paper - Von Seth 2025 - Unimodal speech perception.md",
+    "wiki/Paper - Pulvermuller 2005 - Language and Action.md",
+    "wiki/Paper - Judge and Zapata 2015 - Person-Situation Debate.md",
+    "wiki/Paper - Friston 2005 - Theory of cortical responses.md"
+  ]
+}
